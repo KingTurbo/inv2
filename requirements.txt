@@ -1,0 +1,8 @@
+opencv-python
+easyocr
+numpy
+scikit-image
+PyMuPDF
+Pillow
+tqdm
+openpyxl
